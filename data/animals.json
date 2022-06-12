@@ -126,6 +126,16 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "Donkey",
+      "species": "Robot",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "zany",
+        "loving"
+      ],
+      "id": "13"
     }
   ]
 }
